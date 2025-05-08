@@ -151,6 +151,6 @@ index 7cbae64..524c1f7 100644
 +import dev.figboot.olauncher.launcher.LauncherVersion;
  import net.minecraft.launcher.game.MinecraftGameRunner;
  import net.minecraft.launcher.profile.Profile;
- import net.minecraft.launcher.profile.ProfileManager; {
+ import net.minecraft.launcher.profile.ProfileManager;
 -- 
 2.47.2
