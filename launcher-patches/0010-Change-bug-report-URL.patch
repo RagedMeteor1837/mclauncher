@@ -1,6 +1,6 @@
 From c390e5f2d0521d6d10b113ea13b629804e80f2f2 Mon Sep 17 00:00:00 2001
-From: bigfoot547 <bigfoot@figboot.dev>
-Date: Thu, 7 Apr 2022 04:10:54 -0500
+From: RagedMeteor1837 <email@pingushrek.co.uk>
+Date: Thu, 08 May 2025 16:54:18 +0100
 Subject: [PATCH] Change bug report URL
 
 
@@ -13,7 +13,7 @@ index cd37a5b..d9c609c 100644
                          this.launchGame();
                      } catch (Throwable var5) {
 -                        LOGGER.fatal("Fatal error launching game. Report this to http://bugs.mojang.com please!", var5);
-+                        LOGGER.fatal("Fatal error launching game. Report this to https://github.com/olauncher/olauncher/issues/new please!", var5); // olauncher - have people report bugs to us
++                        LOGGER.fatal("Fatal error launching game. Report this to https://github.com/RagedMeteor1837/mclauncher/issues/new please!", var5); // olauncher - have people report bugs to us
                      }
                  }
              }
