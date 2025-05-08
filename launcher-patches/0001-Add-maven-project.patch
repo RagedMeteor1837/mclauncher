@@ -331,8 +331,8 @@ index 0000000..8a7bf9b
 +        <relativePath>../pom.xml</relativePath>
 +    </parent>
 +
-+    <artifactId>olauncher</artifactId>
-+    <version>1.7.3_03</version>
++    <artifactId>mclauncher</artifactId>
++    <version>0.1.0</version>
 +
 +    <properties>
 +        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
