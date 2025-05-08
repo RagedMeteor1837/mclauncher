@@ -25,7 +25,7 @@ index 0000000..5e73013
 +    private static final LauncherVersion INSTANCE;
 +
 +    public static String getLauncherName() {
-+        return "OLauncher";
++        return "mclauncher";
 +    }
 +
 +    public static String getVersion() {
@@ -75,7 +75,7 @@ index 0000000..5e73013
 +    private LauncherVersion() {
 +        tag = "???";
 +        tagSan = "???";
-+        devVersion = true;
++        devVersion = false;
 +        dirty = false;
 +        commitId = "???";
 +    }
