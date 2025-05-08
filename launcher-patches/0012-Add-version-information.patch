@@ -139,5 +139,18 @@ index faf0dc0..2776ab5 100644
      }
  
      private static LauncherConstants.LauncherProperties getProperties() {
+diff --git a/src/main/java/net/minecraft/launcher/SwingUserInterface.java b/src/main/java/net/minecraft/launcher/SwingUserInterface.java
+index 7cbae64..524c1f7 100644
+--- a/src/main/java/net/minecraft/launcher/SwingUserInterface.java
++++ b/src/main/java/net/minecraft/launcher/SwingUserInterface.java
+@@ -26,6 +26,8 @@ import javax.swing.JOptionPane;
+ import javax.swing.JPanel;
+ import javax.swing.SwingUtilities;
+ import javax.swing.UIManager;
++
++import dev.figboot.olauncher.launcher.LauncherVersion;
+ import net.minecraft.launcher.game.MinecraftGameRunner;
+ import net.minecraft.launcher.profile.Profile;
+ import net.minecraft.launcher.profile.ProfileManager; {
 -- 
 2.47.2
