@@ -1,12 +1,9 @@
-# Project Status
-This project is on indefinite hiatus. Check the forks tab to see if anyone is maintaining a fork of this project. I have relicensed olauncher as CC0 with the consent of the contributors, so you are free to distribute any forks with whatever license you see fit.
-
-# olauncher
+# mclauncher
 The old launcher we all know and love with the quality-of-life features of the new launcher. This aims to support java 8 through modern java.
 
 ## How to use
-1. Go to the [latest release](https://github.com/olauncher/olauncher/releases/latest)
-2. Download the `olauncher-xxx-redist.jar` file
+1. Go to the [latest release](https://github.com/RagedMeteor1837/mclauncher/releases/latest)
+2. Download the `mclauncher-xxx-redist.jar` file
 3. Run it
 
 ## Features
