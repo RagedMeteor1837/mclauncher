@@ -45,7 +45,7 @@ jobs:
       uses: actions/upload-artifact@v4
       id: upload-artifact
       with:
-        name: OLauncher Redistributable JAR
+        name: mcauncher Redistributable JAR
         path: mclauncher-*-redist.jar
 
   draft-release:
